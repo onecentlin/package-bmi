@@ -1,0 +1,17 @@
+{
+    "name": "onecentlin/package-bmi",
+    "description": "BMI Calculator",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^8.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Winnie Lin",
+            "email": "onecentlin@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
